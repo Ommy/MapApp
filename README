@@ -1,0 +1,32 @@
+UWalk
+**This application is being developed by:
+-Fasih Awan
+-Neivin Mathew
+-David C Zhu
+-Christian DeAngelis
+
+
+NOTE: This application is in no way associated with the University. It is a personal project
+NOTE: The name 'UW-MapApp' is just the codename for the project. No real name has been decided
+
+
+
+What does this application do?  :
+
+This application is being made in order to assist those new to the University of Waterloo, those visiting, 
+or those who get lost on occasion because they don't know their way around all the buildings at Waterloo.
+The user will be able to select an initial point which is where they are, and a final point where they want to go
+and the application will give them the shortest path possible and give every direction to take.
+
+
+
+Currently we have the following finished:
+
+  *Browsing all the buildings at UW, and being able to search for them using keywords.
+  *Digital map with complete nodes at entrances of buildings and every point at which paths fork
+  *Make a database of the nodes and the lengths between each node
+
+Next steps:
+  *Determine user input
+  *Finalize UI
+  
