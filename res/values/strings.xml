@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MapAppActivity!</string>
+    <string name="app_name">MapApp</string>
+    <string-array name="eng_buildings">
+    <item>Engineering 2</item>
+    <item>Engineering 3</item>
+    <item>Engineering 5</item>
+    <item>Engineering 6</item>
+    <item>Carl A. Pollock Hall</item>
+    <item>Douglas Wright Engineering Building</item>
+    <item>J.R. Coutts Engineering Lecture Hall</item>
+    <item>Back</item>
+</string-array>
+    <string-array name="env_buildings">
+        <item>Environment 1</item>
+        <item>Environment 2</item>
+        <item>Environment 3</item>
+        <item>Centre for Environmental and Information Technology</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="arts_buildings">
+        <item>Arts Lecture Hall</item>
+        <item>J.G. Hagey Hall of the Humanities</item>
+        <item>Modern Languages</item>
+        <item>Psychology, Anthropology, Sociology</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="math_cs_buildings">
+        <item>Mathematics 3</item>
+        <item>Mathematics &amp; Computer Building </item>
+        <item>William G. Davis Computer Research Centre</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="categories">
+        <item>Engineering</item>
+        <item>Arts</item>
+        <item>Environment</item>
+        <item>Math / Computer Science</item>
+        <item>Residences</item>
+        <item>Research</item>
+        <item>Services</item>
+        <item>Search</item>
+    </string-array>
+    <string-array name="sci_buildings">
+        <item>Biology 1</item>
+        <item>Biology 2</item>
+        <item>Chemistry 2</item>
+        <item>Earth Sciences &amp; Chemistry</item>
+        <item>Optometry Building</item>
+        <item>Physics</item>
+        <item>Lyle S. Hallman Institute for Health Promotion</item>
+        <item>Integrated Health Building 1</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="research_buildings">
+        <item>Quantum Nano Centre</item>
+        <item>Research Advancement Centre 2</item>
+        <item>Research Advancement Centre</item>
+        <item>William G. Davis Computer Research Centre</item>
+        <item>Energy Research Centre</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="residence_buildings">
+        <item>University of Waterloo Place </item>
+        <item>Ron Eydt Village</item>
+        <item>William Lyon Mackenzie King Village</item>
+        <item>Student Village 1</item>
+        <item>Columbia Lake Village</item>
+        <item>Columbia Lake Village North</item>
+        <item>Minota Hagey Residence</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="services_buildings">
+        <item>Student Life Centre</item>
+        <item>Commissary (UW Police &amp; Parking)</item>
+        <item>Central Services Building</item>
+        <item>East Campus Hall</item>
+        <item>Federation Hall</item>
+        <item>General Services Complex</item>
+        <item>Health Services</item>
+        <item>Klemmer Day Care</item>
+        <item>Ira G. Needles Hall</item>
+        <item>South Campus Hall</item>
+        <item>William M. Tatham Centre for Co-operative Education and Career Services</item>
+        <item>Physical Activity Centre</item>
+        <item>Back</item>
+    </string-array>
+    <string-array name="all_builds">
+        <item>Student Life Centre</item>
+        <item>Commissary (UW Police &amp; Parking)</item>
+        <item>Central Services Building</item>
+        <item>East Campus Hall</item>
+        <item>Federation Hall</item>
+        <item>General Services Complex</item>
+        <item>Health Services</item>
+        <item>Klemmer Day Care</item>
+        <item>Ira G. Needles Hall</item>
+        <item>South Campus Hall</item>
+        <item>William M. Tatham Centre for Co-operative Education and Career Services</item>
+        <item>Physical Activity Centre</item>
+        <item>University of Waterloo Place </item>
+        <item>Ron Eydt Village</item>
+        <item>William Lyon Mackenzie King Village</item>
+        <item>Student Village 1</item>
+        <item>Columbia Lake Village</item>
+        <item>Columbia Lake Village North</item>
+        <item>Minota Hagey Residence</item>
+        <item>Quantum Nano Centre</item>
+        <item>Research Advancement Centre 2</item>
+        <item>Research Advancement Centre</item>
+        <item>William G. Davis Computer Research Centre</item>
+        <item>Energy Research Centre</item>
+        <item>Biology 1</item>
+        <item>Biology 2</item>
+        <item>Chemistry 2</item>
+        <item>Earth Sciences &amp; Chemistry</item>
+        <item>Optometry Building</item>
+        <item>Physics</item>
+        <item>Lyle S. Hallman Institute for Health Promotion</item>
+        <item>Integrated Health Building 1</item>
+        <item>Mathematics 3</item>
+        <item>Mathematics &amp; Computer Building </item>
+        <item>William G. Davis Computer Research Centre</item>
+        <item>Arts Lecture Hall</item>
+        <item>J.G. Hagey Hall of the Humanities</item>
+        <item>Modern Languages</item>
+        <item>Psychology, Anthropology, Sociology</item>
+        <item>Environment 1</item>
+        <item>Environment 2</item>
+        <item>Environment 3</item>
+        <item>Centre for Environmental and Information Technology</item>
+        <item>Engineering 2</item>
+    	<item>Engineering 3</item>
+    	<item>Engineering 5</item>
+    	<item>Engineering 6</item>
+    	<item>Carl A. Pollock Hall</item>
+    	<item>Douglas Wright Engineering Building</item>
+    	<item>J.R. Coutts Engineering Lecture Hall</item>
+    	</string-array>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:theme="@android:style/Theme.NoTitleBar"
+  android:background="@drawable/wallpaper"
+  android:layout_height="match_parent">
+<TextView
+	android:id = "@+id/search"
+	android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+	android:text = "Search:"
+	/>
+<EditText
+	android:id = "@+id/searchBox"
+	android:layout_width = "fill_parent"
+	android:layout_height = "wrap_content"
+	android:layout_below = "@id/search"
+	android:minEms = "5"
+	android:hint = "Enter keyword..."
+	/>
+<Button
+	android:id = "@+id/go"
+	android:layout_width = "fill_parent"
+	android:layout_height = "wrap_content"
+	android:layout_below = "@id/searchBox"
+	android:text = "Search"
+	/>
+<Button
+	android:id = "@+id/bk"
+	android:layout_width = "wrap_content"
+	android:layout_height = "wrap_content"
+	android:layout_alignParentRight="true"
+    android:layout_alignParentBottom="true"
+	android:text = "Back"/>
+    
+</RelativeLayout>
